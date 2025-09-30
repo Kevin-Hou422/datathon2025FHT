@@ -1,2 +1,2 @@
 ## Datathon 2025  
-*hou & tian are DaLao s.
+* hou & tian are DaLao s.  
