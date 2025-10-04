@@ -8,11 +8,11 @@
 -------Things to do [__Important__]-------  
 >  
 > 1. finish project. 
->> data process
->> basic visual
->> simple analysis
->> complex and deeper analysis
->> conclusion?
+>> data process  
+>> basic visual  
+>> simple analysis  
+>> complex and deeper analysis  
+>> conclusion?  
 >> interface ( UI ) ?  -can use streamlit.  
 >> 
 >2. finish academic report.  
