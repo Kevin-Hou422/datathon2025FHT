@@ -1,8 +1,8 @@
 ## Datathon 2025  
-## TM50
-## FANG MINGZHI
-## TIAN SIJIA
-## HOU JUNNING
+> TM50
+>> FANG MINGZHI
+>> TIAN SIJIA
+>> HOU JUNNING
   
 > __Recorder:__  
 > 2025.09.30 meeting  (*8pm*)  
