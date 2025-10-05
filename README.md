@@ -9,5 +9,13 @@
  | 3 |__HOU JUNNING__ |(U2421246K)|
   
 
+>__Instructions:__  
+* Our project include __notebooks__ and __data__ folder.  
+* Please open __notebooks__ folder, and excute in the order of number of filename accordingly.  
+* UI part may no work properly, it's just our trial.  
+  
+
+>Thank you!  
+>TM50.  (2025.10.5) 
   
 
