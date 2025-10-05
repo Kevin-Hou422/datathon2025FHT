@@ -10,7 +10,7 @@
   
 
 >__Instructions:__  
-* Our project include __notebooks__ and __data__ folder.  
+* Our project include ```notebooks``` and ```data``` folder, under ```Hackthon 2025 draft``` folder.  
 * Please open __notebooks__ folder, and excute in the order of number of filename accordingly.  
 * UI part may no work properly, it's just our trial.  
   
