@@ -1,6 +1,11 @@
 ## Datathon 2025  
-* Teacher Fang daifei
-* hou & tian are DaLao s.  
+>
+> TM50.
+>> FANG MINGZHI
+>> 
+>> TIAN SIJIA
+>> 
+>> HOU JUNNING
   
 > __Recorder:__  
 > 2025.09.30 meeting  (*8pm*)  
